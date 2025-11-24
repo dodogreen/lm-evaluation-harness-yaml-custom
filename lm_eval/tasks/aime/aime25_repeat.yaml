@@ -1,6 +1,6 @@
 tag:
   - math_word_problems
-task: aime25
+task: aime25_repeat
 dataset_path: math-ai/aime25
 # dataset_name: null
 output_type: generate_until
