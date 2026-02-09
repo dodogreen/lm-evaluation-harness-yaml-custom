@@ -1,4 +1,4 @@
-dataset_path: Idavidrein/gpqa
+dataset_path: drc-8/gpqa-copy
 tag: gpqa
 output_type: generate_until
 process_docs: !function utils.process_docs
